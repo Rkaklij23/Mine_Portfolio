@@ -1,6 +1,6 @@
 import Spline from "@splinetool/react-spline";
 import { useState } from "react";
-import { IoMenu, IoLogoGithub } from "react-icons/io5";
+import { IoMenu } from "react-icons/io5";
 import ProfilePhoto from "./images/rutuja.jpg";
 import {
   VerticalTimeline,
