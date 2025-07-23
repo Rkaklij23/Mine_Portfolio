@@ -107,6 +107,34 @@ export const Projects = [
     "Developed a full-stack banking application to manage customer accounts, transactions, and services. Implemented features like account creation, balance inquiries, and fund transfers using Spring Boot and MySQL.",
   techStack: ["Java", "Spring Boot", "MySQL", "HTML", "CSS"],
   },
+  {
+    id: 3,
+    title: "Student Management Dashboard",
+    description:
+      "Built a responsive web dashboard to manage student records, including features like add, edit, delete, and filter. Designed with form handling and data organization for usability.",
+    techStack: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    id: 4,
+    title: "Spam Email Detection using NLP",
+    description:
+      "Created a model to detect spam emails using natural language processing techniques. Implemented preprocessing, feature extraction, and classification algorithms for accurate detection.",
+    techStack: ["Python", "Pandas", "Sklearn", "NLP"],
+  },
+  {
+    id: 5,
+    title: "Real-time Video Processing System",
+    description:
+      "Designed a system using Java and OpenCV to capture and process real-time video streams. Supported features like frame-by-frame analysis and object detection for video intelligence.",
+    techStack: ["Java", "OpenCV"],
+  },
+  {
+    id: 6,
+    title: "Push Notification Mobile App",
+    description:
+      "Developed a mobile app using React Native with Firebase Cloud Messaging integration to support real-time push notifications. Fully compatible with Android 15 and includes native modules.",
+    techStack: ["React Native", "Firebase", "Java", "Android 15"],
+  },
 
 ];
 
